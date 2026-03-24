@@ -25,7 +25,7 @@ No Encuesta - No Interrogatorio
 **Indagar en motivaciones profundas** **-** **Empatizar realidades** **-** **Conocer experiencias**  
 
 ## Entevista  
-**objetivo:** conocer caracterizticas del juguete perdido, conocer contexto general y sentimental.  
+**objetivo:** conocer caracteristicas del juguete perdido, conocer contexto general y sentimental.  
 Proceso de informaión con patrones, esquemas, estructuras.  
   
 **Toda esta información se transforma en una decisión de diseño**  
