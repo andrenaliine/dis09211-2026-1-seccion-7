@@ -99,4 +99,5 @@ Especificos;
  
   * * Los juguetes fueron presentandos durante la clase.
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2078df3-28d1-46d0-8c24-5be40582bfc4" />
 
