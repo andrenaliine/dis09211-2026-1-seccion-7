@@ -69,3 +69,4 @@ Este fue nuestro avance y procedimiento durante la clase del jueves 19 de marzo.
 
 
 Cita de Céline Ricaud, [Evento de Mattel](https://www.anar.org/actualidad/noticias/las-monster-high-apuestan-por-la-inclusion-y-el-respeto-a-la-diversidad-de-la-mano-de-la-fundacion-anar/ "MH EVENTO")
+<img width="714" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e44b44c-fb23-4c15-8b54-4e917a2845ba" />
