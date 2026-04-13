@@ -108,4 +108,7 @@ Y los actores, que están involucrados son:
 Todas estas personas hacían registro fotográfico y algunas se detenían a las lecturas de información.  
 
 <img width="1280" height="1193" alt="image" src="https://github.com/user-attachments/assets/761fbaaa-6d52-4e99-8dbf-dcda18e60627" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fdea1ce2-efa9-4b4d-9cf4-98ea6f99e9a0" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/12561855-6d9d-4556-bfbc-341f104c4e20" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/35ad6acd-cc4c-48c0-b35f-8f3bc6f72705" />
 
