@@ -26,4 +26,8 @@ Siempre combinar este método con algun otra técnica.
 ### Internet + Etnografía  
 Estudio de personas en línea. Combinarse con otra técnica.  
 **Siempre ser objetivos y abiertos**  
- 
+ ### Aquello que no hacer  
+ *  Suponer o asumir cosas.  
+ *  Induir a la respuesta del usuario.
+ *  Fricciones y tensiones: Diseños confusos, cuestionarios largos que dificulten al usuario.
+
