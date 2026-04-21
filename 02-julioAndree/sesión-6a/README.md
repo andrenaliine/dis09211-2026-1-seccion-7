@@ -30,4 +30,8 @@ Estudio de personas en línea. Combinarse con otra técnica.
  *  Suponer o asumir cosas.  
  *  Induir a la respuesta del usuario.
  *  Fricciones y tensiones: Diseños confusos, cuestionarios largos que dificulten al usuario.
+### Fotográfias de clase:  
+<img width="809" height="647" alt="image" src="https://github.com/user-attachments/assets/66d5607f-461b-4274-8e33-a2dc535ab0cd" /> <img width="970" height="647" alt="image" src="https://github.com/user-attachments/assets/0d77c04a-89d3-4bb1-91cb-6aae5cbc20ef" />
+
+<img width="809" height="647" alt="image" src="https://github.com/user-attachments/assets/fcffaeb2-8956-41ca-8d3a-50a06d07f396" />
 
