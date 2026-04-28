@@ -1,5 +1,5 @@
 # Salida a terreno (Museo de la Memoria y Los Derechos Humanos)  
-Tras la salida logramos concentrar 4 conceptos principales de los cuales vamos a tomar para realizar nuestro trabajo. Nuestro conceptos son:  
+Tras la salida logramos concentrar 4 conceptos principales de los cuáles vamos a tomar para realizar nuestro trabajo. Nuestro conceptos son:  
 *  Memoria
 *  Inclusión
 *  Inmersivo
