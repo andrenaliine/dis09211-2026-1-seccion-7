@@ -18,5 +18,6 @@ Tras la salida logramos concentrar 4 conceptos principales de los cuáles vamos 
 
 **Conclusiones:**  
 Podemos ver que el museo de la memoria es un lugar en el que se conmemora la vida de aquellos que desaparecierón, un lugar con historia y memoria que nos envuelve en las vivencias de la víctimas en salas inmersivas y pantallas interactivas. El museo cuenta con una inclusión a todo público con traducciones en inglés, francés y portugues además de incluir lenguaje braille para personas con discapacidades visuales.  
+<img width="464" height="348" alt="P1140118" src="https://github.com/user-attachments/assets/507ea15a-2201-4251-a1da-1369a4099270" />
 
 **Tarea Código de la discordia:** 
