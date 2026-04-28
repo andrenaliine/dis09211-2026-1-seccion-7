@@ -17,4 +17,6 @@ Tras la salida logramos concentrar 4 conceptos principales de los cuáles vamos 
 <img width="300" height="200" alt="museo rrdd" src="https://github.com/user-attachments/assets/5b0ad010-33b1-4691-be0d-39b7c928168c" />  
 
 **Conclusiones:**  
-Podemos ver que el museo de la memoria es un lugar en el que se conmemora la vida de aquellos que desaparecierón, un lugar con historia y memoria que nos envuelve en las vivencias de la víctimas en salas inmersivas y pantallas interactivas. El museo cuenta con una inclusión a todo público con traducciones en inglés, francés y portugues además de incluir lenguaje braille para personas con discapacidades visuales. 
+Podemos ver que el museo de la memoria es un lugar en el que se conmemora la vida de aquellos que desaparecierón, un lugar con historia y memoria que nos envuelve en las vivencias de la víctimas en salas inmersivas y pantallas interactivas. El museo cuenta con una inclusión a todo público con traducciones en inglés, francés y portugues además de incluir lenguaje braille para personas con discapacidades visuales.  
+
+**Tarea Código de la discordia:** 
