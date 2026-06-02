@@ -24,5 +24,8 @@ Esquema hecho con inteligecia artificial:
   
 <img width="2048" height="2048" alt="79_sin_titulo_20260518002117" src="https://github.com/user-attachments/assets/359281dd-b69f-4836-867d-91796114bcdf" />  
 <img width="2048" height="2048" alt="macarton" src="https://github.com/user-attachments/assets/da0c3fab-35a7-48a9-99c7-5b4ef43da11a" />  
+Mapa mental:  
+<img width="827" height="346" alt="informacion museo" src="https://github.com/user-attachments/assets/219a0975-0208-455f-bb41-0c3573add81a" />
+
 Durante el fin de semana continuamos con el trabajo de lámina, prototipo, ppt y maqueta.  
 
