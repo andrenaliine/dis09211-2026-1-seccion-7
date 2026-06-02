@@ -28,4 +28,10 @@ Mapa mental:
 <img width="827" height="346" alt="informacion museo" src="https://github.com/user-attachments/assets/219a0975-0208-455f-bb41-0c3573add81a" />
 
 Durante el fin de semana continuamos con el trabajo de lámina, prototipo, ppt y maqueta.  
+[Videos prototipo MAC](https://drive.google.com/drive/folders/1oPp3-kFHRPWI50LsKuLJnN2K-hEbFflp?usp=sharing)  
+
+
+
+
+
 
