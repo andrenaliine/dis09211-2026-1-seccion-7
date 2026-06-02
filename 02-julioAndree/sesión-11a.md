@@ -6,6 +6,7 @@ Lámina:[Lámina MAC]()
 ### Montaje de maqueta:  
 
  <img width="1600" height="900" alt="mac terminado" src="https://github.com/user-attachments/assets/fc6289af-86d2-425d-9f81-e03bc6385f81" />  
+
  
  
 
