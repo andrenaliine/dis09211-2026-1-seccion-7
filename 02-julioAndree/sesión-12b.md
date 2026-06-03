@@ -26,20 +26,6 @@ Precisión: Lectura aproximada lo más precisa posible.
 ## Siempre es importante mirar y ojear los componentes  
 Los componentes presentan números, esos números se pueden bucar en internet junto a nombre del componente donde encontraremos su respectiva hoja de especificaciones lo que nos permite entender su funcionamineto y dialogar entre nosotros y el componente.  
 **INPUT** los componentes siempre serán input porque estos recopilan información del exterior y lo manda hacia Arduino.  
-Una vez entendido esto la pregunta que debemos formularnos es ¿Cómo desarrollamos el Output? Para que nuestro proyecto sea visualmente atractivo. Ej: Leds, Sonidos, Puente con Processing, P5js, Rhino, etc.  
+Una vez entendido esto la pregunta que debemos formularnos es ¿Cómo desarrollamos el Output para que nuestro proyecto sea visualmente atractivo?  Ej: Leds, Sonidos, Puente con Processing, P5js, Rhino, etc.  
 ### Ejercicio Potenciómetro - Arduino - Processing  
 <img width="304" height="304" alt="IMG_20260528_182916184" src="https://github.com/user-attachments/assets/72208a25-4657-4ea7-a416-2b5cc1806860" /> <img width="304" height="303" alt="IMG_20260528_182920667_HDR~2" src="https://github.com/user-attachments/assets/5d965c0c-93d1-401f-aed8-906a6cdd407d" /> <img width="304" height="304" alt="IMG_20260528_190018079~2" src="https://github.com/user-attachments/assets/d3f119fa-1c8d-463d-8fa2-4a85cfeda4a4" />  
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
